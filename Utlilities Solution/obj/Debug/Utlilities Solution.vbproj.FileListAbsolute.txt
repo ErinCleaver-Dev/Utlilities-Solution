@@ -1,0 +1,15 @@
+W:\VB2017\Utlilities Solution\Utlilities Solution\obj\Debug\Utlilities Solution.vbproj.AssemblyReference.cache
+W:\VB2017\Utlilities Solution\Utlilities Solution\obj\Debug\Utlilities Solution.vbproj.SuggestedBindingRedirects.cache
+W:\VB2017\Utlilities Solution\Utlilities Solution\obj\Debug\Utlilities_Solution.MainFrm.resources
+W:\VB2017\Utlilities Solution\Utlilities Solution\obj\Debug\Utlilities_Solution.Resources.resources
+W:\VB2017\Utlilities Solution\Utlilities Solution\obj\Debug\Utlilities Solution.vbproj.GenerateResource.cache
+W:\VB2017\Utlilities Solution\Utlilities Solution\obj\Debug\Utlilities Solution.vbproj.CoreCompileInputs.cache
+W:\VB2017\Utlilities Solution\Utlilities Solution\bin\Debug\Utlilities Solution.exe.config
+W:\VB2017\Utlilities Solution\Utlilities Solution\bin\Debug\Utlilities Solution.exe
+W:\VB2017\Utlilities Solution\Utlilities Solution\bin\Debug\Utlilities Solution.pdb
+W:\VB2017\Utlilities Solution\Utlilities Solution\bin\Debug\Utlilities Solution.xml
+W:\VB2017\Utlilities Solution\Utlilities Solution\obj\Debug\Utlilities Solution.exe
+W:\VB2017\Utlilities Solution\Utlilities Solution\obj\Debug\Utlilities Solution.xml
+W:\VB2017\Utlilities Solution\Utlilities Solution\obj\Debug\Utlilities Solution.pdb
+W:\VB2017\Utlilities Solution\Utlilities Solution\bin\Debug\Utilities.mdf
+W:\VB2017\Utlilities Solution\Utlilities Solution\bin\Debug\Utilities_log.ldf
